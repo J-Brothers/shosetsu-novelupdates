@@ -1,0 +1,9 @@
+{
+  "id": "novelupdates",
+  "name": "NovelUpdates",
+  "version": "1.0.0",
+  "url": "https://www.novelupdates.com/",
+  "language": "en",
+  "type": "novel",
+  "script": "novelupdates.py"
+}
